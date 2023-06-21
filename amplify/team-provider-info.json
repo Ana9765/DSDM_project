@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-mobileapp-staging-152639-authRole",
+      "UnauthRoleArn": "arn:aws:iam::048857061977:role/amplify-mobileapp-staging-152639-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::048857061977:role/amplify-mobileapp-staging-152639-authRole",
+      "Region": "eu-north-1",
+      "DeploymentBucketName": "amplify-mobileapp-staging-152639-deployment",
+      "UnauthRoleName": "amplify-mobileapp-staging-152639-unauthRole",
+      "StackName": "amplify-mobileapp-staging-152639",
+      "StackId": "arn:aws:cloudformation:eu-north-1:048857061977:stack/amplify-mobileapp-staging-152639/afc1d7d0-0eb5-11ee-bfa2-0aedafc373c2",
+      "AmplifyAppId": "d2l2t0hqay1sp"
+    },
+    "categories": {
+      "auth": {
+        "MobileApp": {}
+      }
+    }
+  }
+}
